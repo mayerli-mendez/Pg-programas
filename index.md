@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to mis programas
 
-You can use the [editor on GitHub](https://github.com/mayerli-mendez/Programas./edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Algoritmos de Ordenamiento
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Los algoritmos de ordenamiento nos permite ,como su nombre lo dice ordenar informacion de una manera especial basandose en criterios de ordenamiento.
 
 ```markdown
 Syntax highlighted code block
