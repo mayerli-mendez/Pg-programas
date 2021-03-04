@@ -5,7 +5,7 @@
 
 Los algoritmos de ordenamiento nos permite ,como su nombre lo dice ordenar informacion de una manera especial basandose en criterios de ordenamiento.
 
-```markdown
+
 
 
 # Header 1
