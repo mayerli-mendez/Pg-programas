@@ -6,7 +6,7 @@
 Los algoritmos de ordenamiento nos permite ,como su nombre lo dice ordenar informacion de una manera especial basandose en criterios de ordenamiento.
 
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
